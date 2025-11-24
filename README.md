@@ -21,6 +21,10 @@ You can watch all episodes at [aka.ms/insideMF](https://aka.ms/insideMF)!
 | Deploy and compare models in Microsoft Foundry | [Watch Video](https://youtu.be/zPvEYmj8Mi4) | |  |
 | Chat with a deployed Microsoft Foundry model (Python) | [Watch Video](https://youtu.be/ix0kJMVI0tk) |[View Sample](./Samples/Chat-With-Model)  |  |
 | Create an Agent with Microsoft Foundry models (Python) | [Watch Video](https://youtu.be/fUuTvoDPyzo) |[View Sample](./Samples/Create-Agent)  |  |
+| Microsoft Foundry Workflows - Pt. 1: Create a Sequential Workflow | [Watch Video](https://youtu.be/AqM5WLq2VtY) |[View Sample](./Samples/Worfklows)  |  |
+| Microsoft Foundry Workflows - Pt. 2: Add Agents with Tools to a Workflow | [Watch Video](https://youtu.be/u4ksAXEx0R4) |[View Sample](./Samples/Workflows)  |  |
+| Microsoft Foundry Workflows - Pt. 3: Migrate to VS Code Web | [Watch Video](https://youtu.be/MYpW7aDbJQM) |[View Sample](./Samples/Workflows)  |  |
+| Microsoft Foundry Workflows - Pt. 4:  Migrate to VS Code Local | [Watch Video](https://youtu.be/aR7hAbrIlps) |[View Sample](./Samples/Workflows)  |  |
 
 ## Discord
 
