@@ -4,7 +4,7 @@
 
 Freeform tool calling in GPT-5 enables the model to send raw text payloads like Python scripts, SQL queries, or configuration files directly to external tools without needing to wrap them in structured JSON—eliminating rigid JSON schemas and reducing integration overhead. This Python implementation shows you how the model executes model-generated SQL to compute results, routes the output to Python for formatting and visualization, and returns reproducible artifacts (CSVs, charts) all using natural language input.
 
-Try it yourself in Azure AI Foundry and start parsing documents and images: [ai.azure.com](https://ai.azure.com)
+Try it yourself in Microsoft Foundry and start parsing documents and images: [ai.azure.com](https://ai.azure.com)
 
 Learn more about Freeform Tool Calling with GPT-5: [aka.ms/insideAIF/freeform-tool-calling](https://aka.ms/insideAIF/freeform-tool-calling)
 
