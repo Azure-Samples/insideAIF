@@ -2,15 +2,15 @@
 
 ![Mistral Document AI](/Images/thumbnail-mistral-document-AI.png)
 
-The future of document intelligence is here with Mistral Document AI in Azure AI Foundry. In this episode, April shows you how the model parses complex layouts from PDFs and handwritten notes. You’ll also see how the model’s structured JSON output makes it possible to integrate with databases, AI agents, and RAG workflows—turning unstructured documents into actionable data.
+The future of document intelligence is here with Mistral Document AI in Microsoft Foundry. In this episode, April shows you how the model parses complex layouts from PDFs and handwritten notes. You’ll also see how the model’s structured JSON output makes it possible to integrate with databases, AI agents, and RAG workflows—turning unstructured documents into actionable data.
 
-Try it yourself in Azure AI Foundry and start parsing documents and images: [ai.azure.com](https://ai.azure.com)
+Try it yourself in Microsoft Foundry and start parsing documents and images: [ai.azure.com](https://ai.azure.com)
 
 Learn more about Mistral Document AI: [aka.ms/insideAIF/mistral-document-AI](https://aka.ms/insideAIF/mistral-document-AI)
 
 ## Prerequisites
 
-- An [Azure AI Foundry](https://ai.azure.com) project
+- An [Microsoft Foundry](https://ai.azure.com) project
 
 ## Run the Sample
 

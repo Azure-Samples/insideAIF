@@ -4,13 +4,13 @@
 
 The Model Router just leveled up with the latest GPT-5 models — and it’s ready to take your AI projects further. In this episode, April pulls back the curtain on how it works, then walks you through using it to pick the right model for any task. From building intelligent agents to optimizing performance and costs, you’ll see the full process in action.
 
-Try it yourself in Azure AI Foundry and start routing your requests smarter: [ai.azure.com](https://ai.azure.com)
+Try it yourself in Microsoft Foundry and start routing your requests smarter: [ai.azure.com](https://ai.azure.com)
 
 Learn more about Model Router: [aka.ms/insideAIF/model-router](https://aka.ms/insideAIF/model-router)
 
 ## Prerequisites
 
-- An [Azure AI Foundry](https://ai.azure.com) project
+- An [Microsoft Foundry](https://ai.azure.com) project
 - Model Router model deployment
 
 ## Run the Samples
