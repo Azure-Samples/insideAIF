@@ -25,6 +25,12 @@ You can watch all episodes at [aka.ms/insideMF](https://aka.ms/insideMF)!
 | Microsoft Foundry Workflows - Pt. 2: Add Agents with Tools to a Workflow | [Watch Video](https://youtu.be/u4ksAXEx0R4) |[View Sample](./Samples/Workflows)  |  |
 | Microsoft Foundry Workflows - Pt. 3: Migrate to VS Code Web | [Watch Video](https://youtu.be/MYpW7aDbJQM) |[View Sample](./Samples/Workflows)  |  |
 | Microsoft Foundry Workflows - Pt. 4:  Migrate to VS Code Local | [Watch Video](https://youtu.be/aR7hAbrIlps) |[View Sample](./Samples/Workflows)  |  |
+| AI Toolkit + Copilot - Pt. 1:  Environment Setup | [Watch Video](https://youtu.be/4KcpgQlFa58) |[View Sample](./Samples/AITK-Copilot)  |  |
+| AI Toolkit + Copilot - Pt. 2:  Model Recommendations | [Watch Video](https://youtu.be/hVDGQG1mw88) |[View Sample](./Samples/AITK-Copilot)  |  |
+| AI Toolkit + Copilot - Pt. 3:  Create an Agent with Tools | [Watch Video](https://youtu.be/6Dvfn2lfTnU) |[View Sample](./AITK-Copilot)  |  |
+| AI Toolkit + Copilot - Pt. 4:  Generate Agent Code | [Watch Video](https://youtu.be/bKFp2w2O6fM) |[View Sample](./Samples/AITK-Copilot)  |  |
+| AI Toolkit + Copilot - Pt. 5:  Add Tracing to an Agent | [Watch Video](https://youtu.be/Rcjcf6HkrD8) |[View Sample](./AITK-Copilot)  |  |
+| AI Toolkit + Copilot - Pt. 6:  Evaluate Agent Output | [Watch Video](https://youtu.be/i_245SwkBAI) |[View Sample](./Samples/AITK-Copilot)  |  |
 
 ## Discord
 
